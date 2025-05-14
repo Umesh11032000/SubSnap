@@ -42,7 +42,8 @@ cd SubSnap
 npm install
 
 # Set up environment variables
-cp .env.development.local
+create a `.env.development.local`
+
 PORT=5500
 SERVER_URL='http://localhost:5500'
 NODE_ENV=development
